@@ -1,0 +1,57 @@
+body {
+	background-color: #ffae8f;
+}
+
+
+
+/*header part */
+
+#resultHeading {
+	font-family: 'Sigmar One', cursive;
+	font-size: 5rem;
+}
+
+img#trophy {
+	max-width: 150px !important;
+}
+
+/*-------------------------*/
+/*main part */
+
+
+
+main {
+	padding-top: 3%;
+}
+
+.dice-container {
+	text-align: center;
+}
+
+.playerHeading {
+	font-family: 'Pacifico', cursive;
+	font-size: 2rem;
+}
+
+button {
+	width:200px;
+	background-color: #ff677d !important;
+	border: none !important;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px) {
+/*  body {
+    background-color: lightblue;
+  }*/
+
+  #image-container {
+  	justify-content: center !important;
+  }
+
+}
